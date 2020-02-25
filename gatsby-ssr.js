@@ -8,23 +8,18 @@ const React = require("react");
 const safePrefix = require("./src/utils/safePrefix").default;
 
 exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
+  setHeadComponents([]);
 
-    setHeadComponents([
-        
-    ]);
-
-    setPostBodyComponents([
-        <React.Fragment>
-            <script src={safePrefix('assets/js/jquery.min.js')}/>
-            <script src={safePrefix('assets/js/jquery.dropotron.min.js')}/>
-            <script src={safePrefix('assets/js/jquery.scrollex.min.js')}/>
-            <script src={safePrefix('assets/js/browser.min.js')}/>
-            <script src={safePrefix('assets/js/breakpoints.min.js')}/>
-            <script src={safePrefix('assets/js/util.js')}/>
-            <script src={safePrefix('assets/js/init.js')}/>
-            <script src={safePrefix('assets/js/page_load.js')}/>
-            
-        </React.Fragment>
-    ]);
-
+  setPostBodyComponents([
+    <React.Fragment>
+      <script src={safePrefix("assets/js/jquery.min.js")} />
+      <script src={safePrefix("assets/js/jquery.dropotron.min.js")} />
+      <script src={safePrefix("assets/js/jquery.scrollex.min.js")} />
+      <script src={safePrefix("assets/js/browser.min.js")} />
+      <script src={safePrefix("assets/js/breakpoints.min.js")} />
+      <script src={safePrefix("assets/js/util.js")} />
+      <script src={safePrefix("assets/js/init.js")} />
+      <script src={safePrefix("assets/js/page_load.js")} />
+    </React.Fragment>
+  ]);
 };
