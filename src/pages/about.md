@@ -1,20 +1,17 @@
 ---
-title: Test post
+title: About
 subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
-excerpt: >-
-  Lorem ipsum dolor sit amet interdum arcu pulvinar lorem ipsum sed feugiat
-  etiam sed magna adipiscing.
 content_img:
   enabled: true
-  path: images/pic10.jpg
+  path: images/goml.jpg
   url: '#'
-alt_img: images/pic01.jpg
 sidebar:
   enabled: false
   side: left
-date: '2017-04-08'
-show_in_home_posts: true
-show_in_sidebar: false
+menus:
+  footer:
+    title: Contact
+    weight: 3
 template: page
 ---
 

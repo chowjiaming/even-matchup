@@ -1,11 +1,11 @@
 ---
-title: home
+title: Home
 banner:
-  title: Amet donec nullam fermentum
-  subtitle: Sed magna in pharetra ultricies dolor sit consequat magna.
+  title: EvenMatchupGaming
+  subtitle: Esports in the North done differently || EST.2012
   actions:
     - label: Learn More
-      url: /no-sidebar
+      url: /about
       is_primary: false
       is_scrolly: false
       is_huge: true
