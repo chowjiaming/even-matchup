@@ -1,10 +1,7 @@
 ---
-title: Amet Lorem Tempus
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
-excerpt: >-
-  Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a
-  ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit
-  ullamcorper sed blandit lorem ipsum dolore.
+title: EMG launches new space exploration division
+subtitle: SUck my pp musk
+excerpt: GOML on mars 2021
 content_img:
   enabled: true
   path: images/pic10.jpg
