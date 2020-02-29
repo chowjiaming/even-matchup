@@ -13,42 +13,39 @@ sections:
   - type: features
     section_id: features
     features:
-      - title: Integer vitae consequat sed magna feugiat
+      - title: Event Organization
         icon:
           enabled: true
           icon: fa-area-chart
           style: style1
         description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
-      - title: Phasellus libero eu sed augue gravida
+          We provide the equiptment and staffing needed to host events 
+          on both the local and international level including Canada’s 
+          largest Smash event Get On My Level and many more.
+      - title: Player Sponsorship
         icon:
           enabled: true
           icon: fa-pie-chart
           style: style2
         description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
-      - title: Lacus ultricies sagittis mi dui dapibus
+          We have the top Canadian talent in Super Smash Bros. represent 
+          us at major events across the world. We empower our players and 
+          give them the support needed to take their game to the next level.
+      - title: Media Production
         icon:
           enabled: true
           icon: fa-cube
           style: style3
         description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          EvenMatchupGaming broadcasts our events to a worldwide audience 
+          via Twitch and YouTube. We also produce original content to 
+          highlight our community and help tell their story.
     component: Features
   - type: cta
     section_id: cta
-    title: Ultrices ante sagittis nunc senectus libero netus
+    title: We love hearing from our community
     actions:
-      - label: How it works
+      - label: Say Hello
         url: /contact
         is_primary: false
         is_scrolly: false

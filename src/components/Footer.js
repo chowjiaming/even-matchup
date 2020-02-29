@@ -2,10 +2,10 @@ import React from "react";
 import _ from "lodash";
 
 import {
-  markdownify,
+  // markdownify,
   Link,
   safePrefix,
-  classNames,
+  // classNames,
   htmlToReact
 } from "../utils";
 
@@ -15,7 +15,7 @@ export default class Footer extends React.Component {
     let item_len = _.size(item_list);
     return (
       <footer id="footer">
-        <div className="content">
+        {/* <div className="content">
           <div className="inner">
             {_.get(
               this.props,
@@ -164,7 +164,7 @@ export default class Footer extends React.Component {
               </React.Fragment>
             )}
           </div>
-        </div>
+        </div> */}
         <p className="copyright">
           {_.get(
             this.props,
