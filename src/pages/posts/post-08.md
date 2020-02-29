@@ -1,6 +1,6 @@
 ---
-title: Test post
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+title: fake title
+subtitle: PPMD KREYGASM
 excerpt: >-
   Lorem ipsum dolor sit amet interdum arcu pulvinar lorem ipsum sed feugiat
   etiam sed magna adipiscing.
