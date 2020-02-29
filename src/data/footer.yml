@@ -1,5 +1,5 @@
 about:
-  enabled: true
+  enabled: false
   title: Integer vitae sed feugiat
   text: >-
     Lorem ipsum dolor sit amet interdum mollis sapien. Sed amet ac lorem ipsum
@@ -32,4 +32,4 @@ contact_methods:
       url: '#'
 copyright:
   enabled: true
-  text: '&copy; Untitled. All rights reserved.'
+  text: '&copy; EvenMatchupGaming. All rights reserved.'
