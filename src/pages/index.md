@@ -41,6 +41,9 @@ sections:
           via Twitch and YouTube. We also produce original content to 
           highlight our community and help tell their story.
     component: Features
+  - type: features
+    section_id: sponsors
+    component: Sponsors
   - type: cta
     section_id: cta
     title: We love hearing from our community

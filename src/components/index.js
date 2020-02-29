@@ -6,8 +6,9 @@ import Header from "./Header";
 import Menu from "./Menu";
 import Posts from "./Posts";
 import Layout from "./Layout";
+import Sponsors from "./Sponsors";
 
-export { Banner, Cta, Features, Footer, Header, Menu, Posts, Layout };
+export { Banner, Cta, Features, Footer, Header, Menu, Posts, Layout, Sponsors };
 
 export default {
   Banner,
@@ -17,5 +18,6 @@ export default {
   Header,
   Menu,
   Posts,
-  Layout
+  Layout,
+  Sponsors
 };
