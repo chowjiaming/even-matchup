@@ -5,11 +5,6 @@
       "title": "Page Layouts",
       "url": "#",
       "weight": 2
-    },
-    {
-      "identifier": "layouts",
-      "title": "Contact",
-      "url": "/contact"
     }
   ],
   "layouts": [
