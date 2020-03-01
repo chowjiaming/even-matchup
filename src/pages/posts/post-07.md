@@ -1,6 +1,6 @@
 ---
-title: Imperdiet egestas
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+title: gilbert fired from EMG
+subtitle: ben's fired too.
 excerpt: >-
   Lorem ipsum dolor sit amet interdum arcu pulvinar lorem ipsum sed feugiat
   etiam sed magna adipiscing.
