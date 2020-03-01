@@ -1,63 +1,70 @@
 {
-  "main": [
-    {
-      "identifier": "about",
-      "title": "About",
-      "url": "/about",
-      "weight": 2
-    },
-    {
-      "identifier": "contact",
-      "title": "Contact",
-      "url": "/contact"
-    }
-  ],
-  "layouts": [
-    {
-      "identifier": "normal1",
-      "title": "Left Sidebar",
-      "url": "/left-sidebar",
-      "weight": 1
-    },
-    {
-      "identifier": "submenu",
-      "title": "Staff",
-      "url": "#",
-      "weight": 4
-    }
-  ],
-  "submenu": [
-    {
-      "identifier": "about",
-      "title": "Joe",
-      "url": "/joe",
-      "weight": 1
-    },
-    {
-      "identifier": "normal5",
-      "title": "Max",
-      "url": "/max",
-      "weight": 2
-    },
-    {
-      "identifier": "normal6",
-      "title": "Nate",
-      "url": "/nate",
-      "weight": 3
-    },
-    {
-      "identifier": "normal7",
-      "title": "Ben",
-      "url": "/ben",
-      "weight": 4
-    }
-  ],
-  "footer": [
-    {
-      "identifier": "normal8",
-      "title": "Made with Stackbit",
-      "url": "https://www.stackbit.com",
-      "weight": 4
-    }
-  ]
+    "main": [
+        {
+            "identifier": "layouts",
+            "title": "Page Layouts",
+            "url": "#",
+            "weight": 2
+        }
+    ],
+    "layouts": [
+        {
+            "identifier": "normal1",
+            "title": "Left Sidebar",
+            "url": "/left-sidebar",
+            "weight": 1
+        },
+        {
+            "identifier": "normal2",
+            "title": "Right Sidebar",
+            "url": "/right-sidebar",
+            "weight": 2
+        },
+        {
+            "identifier": "normal3",
+            "title": "No Sidebar",
+            "url": "/no-sidebar",
+            "weight": 3
+        },
+        {
+            "identifier": "submenu",
+            "title": "Staff",
+            "url": "#",
+            "weight": 4
+        }
+    ],
+    "submenu": [
+        {
+            "identifier": "normal4",
+            "title": "Joe",
+            "url": "/joe",
+            "weight": 1
+        },
+        {
+            "identifier": "normal5",
+            "title": "Max",
+            "url": "/max",
+            "weight": 2
+        },
+        {
+            "identifier": "normal6",
+            "title": "Nate",
+            "url": "/nate",
+            "weight": 3
+        },
+        {
+            "identifier": "normal7",
+            "title": "Ben",
+            "url": "/ben",
+            "weight": 4
+        }
+    ],
+    "footer": [
+        {
+            "identifier": "normal8",
+            "title": "Made with Stackbit",
+            "url": "https://www.stackbit.com",
+            "weight": 4
+        }
+    ]
 }
