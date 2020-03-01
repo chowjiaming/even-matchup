@@ -28,7 +28,7 @@
   ],
   "submenu": [
     {
-      "identifier": "normal4",
+      "identifier": "about",
       "title": "Joe",
       "url": "/joe",
       "weight": 1
